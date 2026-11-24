@@ -4,7 +4,7 @@ window.I18N = {
   fr: {
     loc_title:"Où nous trouver",loc_text:"Passez à l'agence à votre ville ou demandez une livraison.",map_btn:"Voir sur Google Maps",dir_btn:"Itinéraire",nav_loc:"Localisation",
     nav_fleet:"Voitures", nav_how:"Comment ça marche", nav_faq:"FAQ",
-    pick_label:"Où récupérer la voiture ?", pick_cta:"Voir les voitures",
+    pick_label:"Où récupérer la voiture ?", pick_cta:"Voir les voitures", office_btn:"Je passe au bureau",
     f_all:"Toutes", economy:"Économique", comfort:"Confort", suv:"SUV", premium:"Premium",
     fleet_title:"Notre flotte", per_day:"/ jour", manual:"Manuelle", auto:"Automatique", both:"Manuelle / Auto",
     diesel:"Diesel", petrol:"Essence", hybrid:"Hybride", seats:"{n} places",
@@ -32,7 +32,7 @@ window.I18N = {
   en: {
     loc_title:"Find us",loc_text:"Visit our agency or ask for delivery anywhere in Morocco.",map_btn:"View on Google Maps",dir_btn:"Directions",nav_loc:"Location",
     nav_fleet:"Cars", nav_how:"How it works", nav_faq:"FAQ",
-    pick_label:"Where do you want to pick up?", pick_cta:"See cars",
+    pick_label:"Where do you want to pick up?", pick_cta:"See cars", office_btn:"I'll come to the office",
     f_all:"All", economy:"Economy", comfort:"Comfort", suv:"SUV", premium:"Premium",
     fleet_title:"Our fleet", per_day:"/ day", manual:"Manual", auto:"Automatic", both:"Manual / Auto",
     diesel:"Diesel", petrol:"Petrol", hybrid:"Hybrid", seats:"{n} seats",
@@ -60,7 +60,7 @@ window.I18N = {
   ar: {
     loc_title:"موقعنا",loc_text:"زورونا في وكالتنا بالدار البيضاء أو اطلبوا التوصيل.",map_btn:"عرض على خرائط جوجل",dir_btn:"الاتجاهات",nav_loc:"الموقع",
     nav_fleet:"السيارات", nav_how:"كيف يعمل", nav_faq:"الأسئلة الشائعة",
-    pick_label:"من أين تريد استلام السيارة؟", pick_cta:"عرض السيارات",
+    pick_label:"من أين تريد استلام السيارة؟", pick_cta:"عرض السيارات", office_btn:"سأمر إلى المكتب",
     f_all:"الكل", economy:"اقتصادية", comfort:"مريحة", suv:"دفع رباعي", premium:"فاخرة",
     fleet_title:"أسطولنا", per_day:"/ اليوم", manual:"يدوي", auto:"أوتوماتيك", both:"يدوي / أوتوماتيك",
     diesel:"ديزل", petrol:"بنزين", hybrid:"هجين", seats:"{n} مقاعد",
