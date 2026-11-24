@@ -30,7 +30,7 @@ window.AGENCY_CONFIG = {
   // Pickup places. fee = optional delivery/airport fee in DH added to the total (0 = free).
   locations: [
     { id: "office", fr: "Je récupère au bureau (Soft Drive Car)", en: "I'll pick up at the office (Soft Drive Car)", ar: "", fee: 0 },
-     { id: "cmn-airport", fr: "Casablanca — Aéroport Mohammed V", en: "Casablanca — Mohammed V Airport", ar: "", fee: 100 },
+    { id: "cmn-airport", fr: "Casablanca — Aéroport Mohammed V", en: "Casablanca — Mohammed V Airport", ar: "", fee: 100 },
     { id: "cmn-city", fr: "Casablanca — Centre-ville", en: "Casablanca — City centre", ar: "", fee: 0 },
     { id: "rak-airport", fr: "Marrakech — Aéroport Menara", en: "Marrakech — Menara Airport", ar: "", fee: 100 },
     { id: "rak-city", fr: "Marrakech — Centre-ville", en: "Marrakech — City centre", ar: "", fee: 50 },
