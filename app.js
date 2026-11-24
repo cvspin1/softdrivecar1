@@ -86,6 +86,7 @@
   });
   $("#heroLoc").addEventListener("change", e => { $("#loc").value = e.target.value; calc(); });
   $("#loc").addEventListener("change", e => { $("#heroLoc").value = e.target.value; });
+  $("#officeBtn").addEventListener("click", () => { $("#loc").value = "office"; $("#heroLoc").value = "office"; calc(); });
   ["#loc", "#car", "#from", "#to"].forEach(s => $(s).addEventListener("change", () => {
     if (s === "#from") $("#to").min = $("#from").value;
     $("#err").hidden = true; calc();
